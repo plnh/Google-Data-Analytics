@@ -9,7 +9,8 @@ In this scenario, you’re a data analyst at a local news station. You have been
 By the time you complete this activity, you will be able to use SQL queries to create new tables when dealing with complex datasets. This will greatly simplify your analysis in the future.
 
 **Access the public dataset **
-**Refer to Weather file **
+
+[**Refer to nyc_weather_table file **](https://github.com/plnh/Google-Data-Analytics/blob/main/05_Analyze%20Data%20to%20Answer%20Questions/5.1_Organizing%20data%20to%20begin%20analysis/Hands-on%20Activity/nyc_weather_table)
 
 For this activity you will need the NOAA weather data from BigQuery’s public datasets. 
 
