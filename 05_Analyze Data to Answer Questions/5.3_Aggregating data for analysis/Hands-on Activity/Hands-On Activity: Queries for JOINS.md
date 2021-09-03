@@ -5,7 +5,8 @@
 
 You’ve come a long way in working with relational databases and SQL. Now, you’ll gain practice writing queries that join multiple tables together.
 
-In this activity, you’ll work with the World Bank’s International Education Dataset. By mastering JOIN statements, you’ll be able to fully harness the power of relational databases by combining data from tables linked by keys.  
+In this activity, you’ll work with the [World Bank’s International Education Dataset](https://github.com/plnh/Google-Data-Analytics/blob/main/05_Analyze%20Data%20to%20Answer%20Questions/5.3_Aggregating%20data%20for%20analysis/Hands-on%20Activity/Resource/world_bank_intl_education.international_education.csv)
+By mastering JOIN statements, you’ll be able to fully harness the power of relational databases by combining data from tables linked by keys.  
 
 Load and examine the dataset
 
