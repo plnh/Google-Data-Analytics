@@ -1,4 +1,6 @@
+# [Prepare Data for Exploration Certification](https://github.com/plnh/Google-Data-Analytics/blob/main/03_Prepare%20Data%20for%20Exploration/CERTIFICATE.jpeg)
 
+![](https://github.com/plnh/Google-Data-Analytics/blob/main/03_Prepare%20Data%20for%20Exploration/CERTIFICATE.jpeg)
 
 ## About this Course
 This is the third course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. As you continue to build on your understanding of the topics from the first two courses, you’ll also be introduced to new topics that will help you gain practical data analytics skills. You’ll learn how to use tools like spreadsheets and SQL to extract and make use of the right data for your objectives and how to organize and protect your data. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
