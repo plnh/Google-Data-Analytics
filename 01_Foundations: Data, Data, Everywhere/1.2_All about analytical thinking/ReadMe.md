@@ -1,3 +1,4 @@
+# COURSE OBJECTIVES
 Explain the concept of data-driven decision-making including specific examples
 
 Describe the key characteristics of analytical thinking
