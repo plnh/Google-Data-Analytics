@@ -1,5 +1,6 @@
 # [Process Data from Dirty to Clean Certification](https://github.com/plnh/Google-Data-Analytics/blob/main/04_Process%20Data%20from%20Dirty%20to%20Clean/CERTIFICATE.jpeg)
-![]((https://github.com/plnh/Google-Data-Analytics/blob/main/04_Process%20Data%20from%20Dirty%20to%20Clean/CERTIFICATE.jpeg))
+
+![](https://github.com/plnh/Google-Data-Analytics/blob/main/04_Process%20Data%20from%20Dirty%20to%20Clean/CERTIFICATE.jpeg)
 
 ## About this Course
 
