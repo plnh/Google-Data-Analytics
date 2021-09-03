@@ -1,5 +1,4 @@
 # Hands-On Activity: Analyze weather data in BigQuery
-## 1. Question 1
 
 **Activity overview** 
 
@@ -29,7 +28,7 @@ For this activity you will need the NOAA weather data from BigQuery’s public d
 5. Check the table’s schema and preview it to get familiar with the data. Once you’re ready, you can click COMPOSE NEW QUERY to start querying the dataset. 
 
 
-**Querying the data **
+**Querying the data**
 
 The meteorologists who you’re working with have asked you to get the temperature, wind speed, and precipitation for stations La Guardia and JFK, for every day in 2020, in descending order by date, and ascending order by Station ID. Use the following query to request this information:
 
