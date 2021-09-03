@@ -1,3 +1,4 @@
+# COURSE OBJECTIVES
 Describe the role of a data analyst with specific reference to job roles
 
 Discuss how the Google Data Analytics Certificate can help a candidate meet the requirements of a given job
