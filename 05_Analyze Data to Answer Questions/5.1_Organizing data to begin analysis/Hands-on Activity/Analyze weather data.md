@@ -1,7 +1,7 @@
 # Hands-On Activity: Analyze weather data in BigQuery
-1. Question 1
+## 1. Question 1
 
-** Activity overview ** 
+**Activity overview** 
 
 Previously, you learned how to use BigQuery to clean data and prepare it for analysis. Now you will query a dataset and save the results into a new table. This is a useful skill when the original data source changes continuously and you need to preserve a specific dataset for continued analysis. It’s also valuable when you are dealing with a large dataset and know you’ll be doing more than one analysis using the same subset of data. 
 
@@ -9,8 +9,8 @@ In this scenario, you’re a data analyst at a local news station. You have been
 
 By the time you complete this activity, you will be able to use SQL queries to create new tables when dealing with complex datasets. This will greatly simplify your analysis in the future.
 
-** Access the public dataset **
-** Refer to Weather file **
+**Access the public dataset **
+**Refer to Weather file **
 
 For this activity you will need the NOAA weather data from BigQuery’s public datasets. 
 
@@ -29,7 +29,7 @@ For this activity you will need the NOAA weather data from BigQuery’s public d
 5. Check the table’s schema and preview it to get familiar with the data. Once you’re ready, you can click COMPOSE NEW QUERY to start querying the dataset. 
 
 
-** Querying the data **
+**Querying the data **
 
 The meteorologists who you’re working with have asked you to get the temperature, wind speed, and precipitation for stations La Guardia and JFK, for every day in 2020, in descending order by date, and ascending order by Station ID. Use the following query to request this information:
 
@@ -127,6 +127,7 @@ ORDER BY
 Query your new table
 
 Now that you have the subset of this data saved in a new table, you can query it more easily. Use the following query to find the average temperature from the meteorologists first question:
+```
 
 SELECT
 
@@ -139,7 +140,7 @@ FROM
 WHERE
 
 date BETWEEN '2020-06-01' AND '2020-06-30'
-
+```
 You can also use this syntax to find the average wind_speed or any other information from this subset of data you’re interested in. Try constructing a few more queries to answer the meteorologists’ questions!
 
 The ability to save your results into a new table is a helpful trick when you know you're only interested in a subset of a larger complex dataset that you plan on querying multiple times, such as the weather data for just La Guardia and JFK. This also helps minimize errors during your analysis.
