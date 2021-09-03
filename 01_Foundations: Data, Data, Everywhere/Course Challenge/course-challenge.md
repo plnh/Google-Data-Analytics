@@ -31,7 +31,7 @@ Next, you continue to the prepare step. You access the database and write a quer
 
 ### Question 2
 
-You may click the link to create a copy of the spreadsheet: [Pharmacy Data](resources/pharmacy-data-part-1.csv). Please refer to **Pharmacy Data - Part 1** tab.
+You may click the link to create a copy of the spreadsheet: [Pharmacy Data](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Course%20Challenge/pharmacy-data-part-1.csv). Please refer to **Pharmacy Data - Part 1** tab.
 
 Now, it’s time to process the data. As you know, this step involves finding and eliminating errors and inaccuracies that can get in the way of your results. **While cleaning the data, you notice there’s an issue you need to fix. Identify the problem.**
 
@@ -48,7 +48,7 @@ Now, it’s time to process the data. As you know, this step involves finding an
 
 Once you’ve found the missing information, you analyze your dataset. You use a formula to determine how much of each store’s daily sales come from sales of Splashtastic. 
 
-You may click the link to create a copy of the spreadsheet: [Pharmacy Data](resources/pharmacy-data-part-2.csv). Please refer to **Pharmacy Data - Part 2** tab.
+You may click the link to create a copy of the spreadsheet: [Pharmacy Data](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Course%20Challenge/pharmacy-data-part-2.csv). Please refer to **Pharmacy Data - Part 2** tab.
 
 **During analysis, you create a new column F. At the top of the column, you add: Average Percentage of Total Sales - Splashtastic. In data analytics, this column label is called an attribute.**
 
@@ -124,7 +124,7 @@ WHERE zip_code = 81137
 
 The dataset your supervisor retrieved and imported into a spreadsheet includes a list of patients, their demographic information, dental procedure types, and whether they attended their follow-up appointment. 
 
-You may click the link to create a copy of the spreadsheet: [Dental Patient Data](resources/dental-patient-data.csv). 
+You may click the link to create a copy of the spreadsheet: [Dental Patient Data](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Course%20Challenge/dental-patient-data.csv). 
 
 The patient demographic information includes data such as age, gender, and home address. **The fact that the dataset includes people who all live in the same zip code might get in the way of what?**
 
