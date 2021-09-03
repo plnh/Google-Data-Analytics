@@ -15,7 +15,7 @@ To get started, you will need the CONCAT function exercise spreadsheet.
 
 To use the template for the spreadsheet, click the link below and select “Use Template.” 
 
-Link to template: CONCAT Function Exercise Spreadsheet 
+Link to template: [Dataset-for-Project_-CONCAT-function.xlsx](https://github.com/plnh/Google-Data-Analytics/blob/main/05_Analyze%20Data%20to%20Answer%20Questions/5.2_Formatting%20and%20adjusting%20data/Hands-On%20Activity/Dataset-for-Project_-CONCAT-function.xlsx)
 
 
 **Using the CONCAT and CONCATENATE functions**
