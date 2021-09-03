@@ -1,4 +1,4 @@
-# [Google Data Analytics Professional Certificate](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Certificate.png)
+# [Foundations: Data, Data, Everywhere Certificate](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Certificate.png)
 
 ![](https://github.com/plnh/Google-Data-Analytics/blob/main/01_Foundations:%20Data%2C%20Data%2C%20Everywhere/Certificate.png)
 
