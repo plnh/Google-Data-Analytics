@@ -1,3 +1,4 @@
+# COURSE OBJECTIVES
 Define key concepts involved in data analytics including data, data analysis, and data ecosystem
 
 Discuss the use of data in everyday life decisions
