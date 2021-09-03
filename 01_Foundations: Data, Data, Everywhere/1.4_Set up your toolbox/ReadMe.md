@@ -1,3 +1,4 @@
+# COURSE OBJECTIVES
 Describe spreadsheets, query languages, and data visualization tools, giving specific examples
 
 Demonstrate an understanding of the uses, basic features, and functions of a spreadsheet
