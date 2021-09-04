@@ -1,0 +1,56 @@
+Great to see you again. Building a strong resume is a great way to find
+success in your job hunt. You've had the chance to
+start building your resume, and now we'll take the
+next step by showing you how to refine your resume for data analytics jobs.
+Let's get started. For data analytics, one of
+the most important things your resume should do is show that you are a
+clear communicator. Companies looking for
+analysts want to know that the people they hire
+can do the analysis, but also can explain it to any audience in a
+clear and direct way. Your first audience as a
+data analyst will most likely be hiring
+managers and recruiters. Being direct and coherent in your resume will go a long
+way with them as well. Let's start with the
+summary section. While you won't go into
+too much detail in this section about any of
+your work experiences, it's a good spot to
+point out if you're transitioning into
+a new career role. You might add something like, "transitioning from a career in the auto industry and seeking a full-time role in the
+field of data analytics." One strategy you can use in
+your summary and throughout your resume is P-A-R,
+or PAR statements. PAR stands for Problem,
+Action, Result. This is a great way to help you write clearly and concisely. Instead of saying something like, "was responsible for
+writing two blogs a month," you'd say, "earned
+little-known website over 2,000 new clicks through
+strategic blogging." The website being
+little-known is the problem. The strategic action is the strategic blogging. And the result is the
+2,000 new clicks. Adding PAR statements to
+your job descriptions or skill section can help with the organization and
+consistency in your resume. They definitely helped
+me when I changed jobs. Speaking of the skill section, make sure you include any
+skills and qualifications you've acquired through this
+course and on your own. You don't need to
+be super technical. But talking about your
+experience with spreadsheets, SQL, Tableau, and R, which is a programming language
+that we'll get to later, will enhance your resume and your chances
+of getting a job. If you're listing
+qualifications or skills, you might include a spot for programming languages
+and then list SQL and R, which are both a part of the Google Data
+Analytics certificate. You might even add in
+the top functions, packages or formulas that you're comfortable with in each. It also makes sense to
+include skills you've acquired in spreadsheets
+like pivot tables. Pivot tables, SQL, R, and lots of other terms
+we covered here might get you noticed by hiring
+managers and recruiters. But you definitely
+want your resume to accurately represent your
+skills and abilities. Only add these skills after you've completed
+this certificate. Once you start
+applying the ideas we talked about here to your resume, you'll be well on
+your way to setting yourself apart from
+other candidates. After you've completed
+your final course, you'll have the
+opportunity to complete a case study and link
+it on your resume. This'll be a great opportunity to show recruiters and hiring managers the skills you've learned while earning
+your certificate. Before you know it, you'll have a pretty great
+resume that you can update quickly whenever you're searching for a data analyst job. Nothing wrong with that. Up next, we'll talk more about adding experienced to your
+resume. Bye for now.

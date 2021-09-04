@@ -1,0 +1,52 @@
+Hi, I'm Kate. I'm a senior
+product analyst at Google. I have always been perhaps an
+annoyingly curious person. Even as a child, I
+remember I would take things apart just
+to see how they worked. I just love seeing how
+things work together, and I love asking new questions. I love having more information. I think that makes me a more well-rounded person and
+definitely a better analyst. Every step in my career, including the first
+step in the army, I always picked at what I
+could in terms of trying to self teach on things like
+databases and things like data. One of my first
+forays into data was, I had been deployed
+and when I came back, I worked with the
+personnel office and we had to do things
+like track where everybody was and
+what their pay was and their rank and if
+they were getting awards, and there wasn't a single
+system to work through in that, so I use an Access database. It took me forever to
+learn what a foreign key was and what a primary key was. I'll be totally honest, I did really poorly. I ended up going back to Excel, but it was a really good
+learning experience. After my time in the army, I didn't have a sense
+of what I wanted to do. I had been doing personnel, but I really did still
+enjoy the technology piece. I somehow spun my army
+career into logistics and got a job doing logistics for what they
+call the roundhouse. It is where they work on
+the locomotive engines. I did a lot of
+database maintenance. When I left the railroad, I went to a welding
+company where I started out as a logistics person
+working on trucks. I mean truck parts. But
+then I was able to transition into a more
+database data-focused role. After my time at the
+welding company, I was ready to try something
+a lot more technical. I actually ended up working for a small consulting
+firm that was very boutiquey and did a
+lot of work with Tableau, where we started to work with companies and taught them how
+to do data visualization. I did Tableau training for awhile. But really I was there
+for over six years, and through my time there, I did database engineering, I did data engineering. I got to run a team of analysts, I got to teach people
+how to do consulting. There was a lot of growth for me in that six-year time period. After that, I decided
+to come to Google. I get to work with
+stakeholders on translations throughout
+the Google world. If anybody wants to translate something from one
+language to another, I get to work on the
+analytics of that. That means that if you take 500 different languages or 40 different languages,
+what does it cost? How many words do we translate? What does that translation
+quality look like? If I look back on my career, I would have told
+myself five, ten years ago to
+focus on something. Don't try to feel
+too overwhelmed. The important thing to
+be able to do is to be able to ask the right question and know how to answer it. I have confidence. Confidence is really important because people are coming
+to me for answers. That's my job, is to think really hard about the
+questions and give them answers that make them better and make
+the company better. The fact that I know
+that I can do this now, now that I've put that
+time and effort into it, it's really, really rewarding.
