@@ -3,4 +3,4 @@
 
 This repository written for reference and self-learning purpose
 
-Note! Instead of BigQuerry I used SQL Server
+Sometimes I use SQL Server instead of BigQuerry 
