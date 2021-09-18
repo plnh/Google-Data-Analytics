@@ -1,15 +1,18 @@
 # Customer Personality Analysis
-## Analysis of company's ideal customers
-
-# Context
+## Scenario
+You are a junior data analyst working in the marketing analyst team for a ecommerce company. You're addigned to the 2 questions to answer: 1/ which customer segment is most likely to buy a particular product and 2/ Which product should we recommend to whom?  
+# Business task
 ## Problem Statement
+Analyze customers personality for for marketing programs.
+## Tools: Python for data cleaning and data modeling, Tableau for data visualization.
+## Dataset: Here
+## Python code : Here
+## Tableau: Here
 
-Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
-Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-# Content
-## Attributes
+#Results
+What I found from the data:
 
 People
 
