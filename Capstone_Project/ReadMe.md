@@ -49,5 +49,5 @@ Place
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s web site in the last month
 
-## Target
+# Target
 Need to perform clustering to summarize customer segments.
