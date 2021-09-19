@@ -1,5 +1,7 @@
 # [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/share/2149381c67851f6a5e29e3536ef9c6fa)
 
+**Find my capstone project [Here](https://github.com/plnh/Customer_Personality_Analysis)**
+
 ![](https://github.com/plnh/Google-Data-Analytics/blob/main/08_Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/CERTIFICATE.jpeg)
 
 ## About this Course
