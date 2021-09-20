@@ -1,2 +1,13 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+*.Rdata binary
+*.RData binary
+*.rda   binary
+*.rdb   binary
+*.rds   binary
+*.Rd    text
+*.Rdx   binary
+*.Rmd	  text
+*.R  	  text
+*.Rproj text
+*.Rmd   linguist-language=R
